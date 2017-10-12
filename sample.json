@@ -1,0 +1,12 @@
+{
+	"Employee": [{
+		"name": "Raja",
+		"dept": "IT"
+	}, {
+		"name": "Mohan",
+		"dept": "Mech"
+	}, {
+		"name": "Gopal",
+		"dept": "CSC"
+	}]
+}
